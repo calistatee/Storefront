@@ -1,0 +1,15 @@
+FORMAT FOR ORDER INPUT/OUTPUT FILE
+
+blank
+id
+password
+fname
+lname
+address
+phone
+numberOfOrders
+OrderID
+dateOrdered
+shippingSpeed
+state
+numberOfItems
